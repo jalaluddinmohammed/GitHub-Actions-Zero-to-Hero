@@ -1,7 +1,7 @@
 name: My First GitHub Actions
 # this is a test commit
 
-on: [push]
+on: [commit]
 
 jobs:
   build:
